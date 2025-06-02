@@ -1,6 +1,9 @@
+# dreamteam
 ## line written by Dj£m
-<<<<<<< HEAD
-=======
+
 *test conflit*
 *test après conflit*
->>>>>>> 5ffc0f8623de0bcbeeea8525384d8d37bc2d5d3f
+*je sais aps ce que je fait*
+*j'écris sur readme dans la branche de thomas !*
+*Test readme to see merge errors*
+*bla bla*
